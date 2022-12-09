@@ -1,6 +1,6 @@
 .headerContainer {
     padding: 6rem;
-    background: #f96a00;
+    background: #f269ca;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,12 +9,12 @@
   }
   
   .headerTitle {
-    color: #f90050;
+    color: black;
     font-size: 4rem;
   }
   
   .headerImage {
-    width: 40%;
+    width: 50%;
   }
   
   @media(max-width: 765px) {

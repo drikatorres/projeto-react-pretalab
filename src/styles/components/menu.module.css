@@ -1,5 +1,5 @@
 .menuContainer {
-    background: #faab00;
+    background: #fcb6f2;
     display: flex;
     gap: 10rem;
     align-items: center;
@@ -14,7 +14,7 @@
   .menuLink {
     text-decoration: none;
     font-size: 1.7rem;
-    color: #c7003f;
+    color: black;
   }
   
   @media(max-width: 765px) {

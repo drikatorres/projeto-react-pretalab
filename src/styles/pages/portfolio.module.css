@@ -1,0 +1,26 @@
+.homeContainer {
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    text-align: center;
+    background-color: #fb67f7;
+    flex-direction: row;
+  }
+  
+  .cardContainer {
+  width: 100%;
+  }
+
+  .cardText {
+  font-size: 1.2rem;
+  align-content: center;
+  color: black;
+  }
+  
+  @media(max-width: 500px) {
+  .homeContainer {
+    flex-direction: row;
+  }
+  }
