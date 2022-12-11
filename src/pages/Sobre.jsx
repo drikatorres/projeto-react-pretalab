@@ -26,11 +26,11 @@ export function Sobre() {
         <p className={styles.cardText}>Sou orgulhosamente formada em Ciências Contábeis pela Universidade de Brasília e estou cursando Análise e Desenvolvimento de Sistemas.</p>
       </div>
       <div className={styles.cardContainer}>
-        <Volleyball size={50} color="#686AAC" weight="bold" />
+        <TreeStructure size={50} color="#686AAC" weight="bold" />
         <p className={styles.cardText}>Gosto demais do mundo da tecnologia e descobri na programação possibilidades incríveis de criação.</p>
       </div>
       <div className={styles.cardContainer}>
-        <TreeStructure size={50} color="#686AAC" weight="bold" />
+        <Volleyball size={50} color="#686AAC" weight="bold" />
         <p className={styles.cardText}>Gosto muito de praticar atividades físicas, principalemte vôlei, Yoga e musculação.</p>
       </div>
      </div>
