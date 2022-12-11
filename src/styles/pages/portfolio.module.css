@@ -11,13 +11,18 @@
     color: black;
   }
 
+  .titulo {
+    font-size: 35px;
+  }
+
   .divContainer {
     font-weight: 500;
     font-size: x-large;
     padding: 1rem;
     border: 1rem;
-    border-color: black;
     margin: auto;
+    border: solid;
+    border-radius: 10px;
   }
   
 
