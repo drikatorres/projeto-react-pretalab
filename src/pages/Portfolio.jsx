@@ -21,7 +21,7 @@ export function Portfolio() {
         <a href="https://github.com/drikatorres/conversor-temperatura-coding-tank-java" target="blank">Link</a>
       </div>
       <div className={styles.divContainer}>
-        <p>Modelo de de escola feito em Java</p>        
+        <p>Modelo de escola feito em Java</p>        
         <GraduationCap size={30} color="black" weight="bold" />
         <a href="https://github.com/drikatorres/projeto-final-poo-modulo-ii-escola" target="blank">Link</a>
       </div>
